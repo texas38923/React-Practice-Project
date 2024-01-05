@@ -23,7 +23,7 @@ const Header = () => {
 
         <div className='gpt3__header-content__people'>
           <img src={people} alt='people' />
-          <p>1,000 people requested access in the last one hour...</p>
+          <p>1,650+ people requested access in the last one hour...</p>
         </div>
       </div>
 
